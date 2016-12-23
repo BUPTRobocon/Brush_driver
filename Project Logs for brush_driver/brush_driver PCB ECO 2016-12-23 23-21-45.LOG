@@ -1,0 +1,18 @@
+Added Component: Designator=HIP1(hip4082)
+Added Pin To Net: NetName=NetC1_2 Pin=HIP1-1
+Added Pin To Net: NetName=12V Pin=HIP1-2
+Added Pin To Net: NetName=PWMBIN Pin=HIP1-3
+Added Pin To Net: NetName=PWMAIN Pin=HIP1-4
+Added Pin To Net: NetName=NetHIP1_5 Pin=HIP1-5
+Added Pin To Net: NetName=PGND Pin=HIP1-6
+Added Pin To Net: NetName=12V Pin=HIP1-7
+Added Pin To Net: NetName=DIS Pin=HIP1-8
+Added Pin To Net: NetName=NetC3_2 Pin=HIP1-9
+Added Pin To Net: NetName=NetHIP1_10 Pin=HIP1-10
+Added Pin To Net: NetName=NetC3_1 Pin=HIP1-11
+Added Pin To Net: NetName=12V Pin=HIP1-12
+Added Pin To Net: NetName=NetHIP1_13 Pin=HIP1-13
+Added Pin To Net: NetName=NetHIP1_14 Pin=HIP1-14
+Added Pin To Net: NetName=NetC1_1 Pin=HIP1-15
+Added Pin To Net: NetName=NetHIP1_16 Pin=HIP1-16
+Added Member To Class: ClassName=brush_driver Member=Component HIP1 hip4082

@@ -1,0 +1,8 @@
+Added Component: Designator=D1(0805D)
+Added Component: Designator=D2(0805D)
+Added Pin To Net: NetName=12V Pin=D1-A
+Added Pin To Net: NetName=NetC1_2 Pin=D1-K
+Added Pin To Net: NetName=12V Pin=D2-A
+Added Pin To Net: NetName=NetC3_2 Pin=D2-K
+Added Member To Class: ClassName=brush_driver Member=Component D1 D-1N5819
+Added Member To Class: ClassName=brush_driver Member=Component D2 D-1N5819
