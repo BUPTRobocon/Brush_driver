@@ -4,3 +4,7 @@
 /Project Logs for brush_driver/
 
 *.rar
+!*.PcbDoc
+!*.PrjPcb
+!*.SchDoc
+!*.md
