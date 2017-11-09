@@ -8,22 +8,26 @@
 
 ## BUPT有刷电机驱动器 V4.0
 
-更新：
+- 更新：
 
-修正10P封装
+	- 修正10P封装
 
-增加RGBLED
+	- 增加RGBLED
 
-增加蜂鸣器
+	- 增加蜂鸣器
 
-增大TPS5430电感封装
+	- 增大TPS5430电感封装
 
-修正过孔(12mil 20mil)
+	- 修正过孔(12mil 20mil)
 
-修正HCPL0630的输入端供电（3.3V改为5V）
+	- 修正HCPL0630的输入端供电（3.3V改为5V）
 
 - Author 
 	- [Ncerzzk](https://github.com/Ncerzzk)
+	
+- View
+	- ![view](https://raw.githubusercontent.com/BUPTRobocon/Brush_driver/master/view.jpg)
+
 
 2017.4.11
 
