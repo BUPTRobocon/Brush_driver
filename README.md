@@ -1,5 +1,3 @@
-![Markdown](http://i2.kiimg.com/597728/93f722f11c433f68.jpg)
-
 ## BUPT有刷电机驱动器 V4.1
 
 修正：
@@ -24,5 +22,9 @@
 
 修正HCPL0630的输入端供电（3.3V改为5V）
 
+- Author 
+	- [Ncerzzk](https://github.com/Ncerzzk)
+
 2017.4.11
+
 
