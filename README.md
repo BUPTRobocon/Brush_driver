@@ -22,6 +22,11 @@
 
 	- 修正HCPL0630的输入端供电（3.3V改为5V）
 
+- 特性：
+	- 使用HIP4082全桥驱动芯片
+	- 使用[F103Core](https://github.com/BUPTRobocon/STM32F103)
+	- MOS使用LR7843
+
 - Author 
 	- [Ncerzzk](https://github.com/Ncerzzk)
 	
