@@ -67,6 +67,10 @@ GenerateClassCluster=0
 DocumentPath=brush_driver.PcbDoc.htm
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for brush_driver\Design Rule Check - brush_driver.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
